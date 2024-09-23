@@ -4,12 +4,14 @@ A project focused on scraping job listings data from various job portals, perfor
 # My Goal:
   1. Insightful statistical analysis of job market trends, offering a comprehensive overview of the current job landscape.
   2. Perform EDA to identify trends and patterns in the job market.
-  3. Dashboard creation and storytelling.
+  3. Data Preprocessing - Transforming raw, unstructured data into a clean, structured format by handling missing values, removing outliers.
+  4. Dashboard creation and storytelling.
 
 # Acquisition:
-  1. Transforming unstructured data to structured dataset that can be used for further analysis.
-  2. Connecting to ODBC driver and moving data from dataframes to SQL database.
-  3. Creating interactive dashboard to visualize and explore job market insights across various dimensions.
+  1. Gained proficiency with Python libraries like Selenium, BeautifulSoup, Requests, and Pandas for efficiently scraping dynamic content.
+  2. Data Quality Improvement.
+  3. Storing scraped data in a relational database (SQL Server) using ODBC driver to ensure efficient querying, analysis, and integration with Tableau.
+  4. Creating interactive dashboard to visualize and explore job market insights across various dimensions.
  
 
 # Prerequisites:
