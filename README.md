@@ -4,7 +4,7 @@ A project focused on scraping job listings data from various job portals, perfor
 # My Goal:
   1. Insightful statistical analysis of job market trends, offering a comprehensive overview of the current job landscape.
   2. Perform EDA to identify trends and patterns in the job market.
-  3. Data Preprocessing - Transforming raw, unstructured data into a clean, structured format by handling missing values, removing outliers.
+  3. Data Preprocessing - Transforming raw, semi-structured data into a clean, structured format by handling missing values, removing outliers.
   4. Dashboard creation and storytelling.
 
 # Acquisition:
